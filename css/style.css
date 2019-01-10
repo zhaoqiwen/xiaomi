@@ -52,7 +52,7 @@
 		
 	}
 	.head-right{
-		width: 282px;
+		width: 293px;
 		height: 100%;
 		float: right;
 	}
@@ -233,6 +233,10 @@
 		font-size: 12px;
 		color: #b0b0b0;;
 	}
+.white1{
+	width: 20px;
+	height: 20px;
+}
 	.jiaqian{
 		margin-left: 77px;
 		font-size: 14px;
